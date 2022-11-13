@@ -206,7 +206,7 @@ margin-right: 0;
 .vid-info{
   color:  #5a5a5a!important;
   font-size: 13px;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
 }
 
 .vid-info a{
@@ -232,8 +232,8 @@ text-transform: uppercase;
      display: none;
    }
    .container,.large-container{
-     padding-left: 5%;
-     padding-right: 5%;
+     padding-left: 0%;
+     padding-right: 0%;
    }
 
    .nav-right img{
