@@ -299,6 +299,13 @@ text-transform: uppercase;
   }
 .btn{
   padding: 5px 0px;
+  overflow-x: scroll;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.btn::-webkit-scrollbar {
+  display: none;
 }
 
 @media (min-width: 900px) {
